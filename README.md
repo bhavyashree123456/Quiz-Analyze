@@ -17,5 +17,7 @@ This project focuses on extracting, cleaning, analyzing, and visualizing data fe
       The project begins by retrieving data from external URLs. The URLs provide datasets in JSON format. The requests library is used to fetch the data, and json() is used to parse the response into a Python dictionary.
    2. Data Conversion:
       Once the data is retrieved, the JSON data is converted into a pandas DataFrame for easy manipulation and analysis. The conversion logic handles cases where the data could be in a list or dictionary format.
+      ![image](https://github.com/user-attachments/assets/18b58d19-da91-43d8-bfb0-deb08802de26)
+
       
   
