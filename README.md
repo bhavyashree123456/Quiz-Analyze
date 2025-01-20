@@ -1,4 +1,4 @@
-# Quiz-Analyze
+# Quiz-Analysis
 # Project Overview 
 This project is designed to demonstrate the end-to-end workflow for working with external datasets retrieved from URLs in JSON format. It involves a series of data processing and analysis steps aimed at transforming raw data into actionable insights. By combining Python libraries such as requests, pandas, matplotlib, and seaborn, the project handles a range of tasks from data extraction and cleaning to exploratory analysis and visualization.
 
